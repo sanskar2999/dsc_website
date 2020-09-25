@@ -53,7 +53,7 @@ export default ({ roundedHeaderButton }) => {
         <TwoColumn>
           <LeftColumn>
             <Heading>
-              Beautiful React Templates <span tw="text-primary-500">for you.</span>
+            <span tw="text-blue-500">D</span><span tw="text-yellow-500">S</span><span tw="text-green-500">C</span><span tw="text-red-500">N</span><span tw="text-blue-500">I</span><span tw="text-yellow-500">E</span>
             </Heading>
             <Paragraph>
               Our templates are easy to setup, understand and customize. Fully modular components with a variety of
